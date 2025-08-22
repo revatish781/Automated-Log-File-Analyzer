@@ -1,0 +1,1 @@
+A Python tool to analyze application logs and generate visual summaries. It counts log levels (INFO, WARNING, ERROR, CRITICAL), exports a CSV summary, and displays charts for quick insights. Ideal for monitoring system events and identifying critical issues.
